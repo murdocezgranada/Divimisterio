@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - puertamuseo
+  - banca
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - continuar
+  - Water
+  - UI
+  - Dialogo felicidades
+  - fallaste
+  - arriba
+  - atrassuelo
+  - texto
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: arribatodo
+    uniqueID: 2832668227
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 1871840633
+    locked: 0
+  - name: capa1
+    uniqueID: 2675698755
+    locked: 0
+  - name: boton
+    uniqueID: 3700017611
+    locked: 0

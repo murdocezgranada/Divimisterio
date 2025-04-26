@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MenuInicial.unity
+    guid: d0188fd1757f0534f98dbba05bb5dcfa
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: e729f5007dc11b04394954fb2184b0ff
+  - enabled: 1
+    path: Assets/Scenes/buscar.unity
+    guid: 79a7a557b84624c4cb84bbd32c4c50ca
+  - enabled: 1
+    path: Assets/Scenes/Ciudad.unity
+    guid: 74c16825ee8fb3b4dba4a0505f7cfa81
+  - enabled: 1
+    path: Assets/Scenes/museo.unity
+    guid: 3bb6dc0d37c3d7e449638e6c1df57909
+  - enabled: 1
+    path: Assets/Scenes/MNivel1.unity
+    guid: f38e737766aa3634090659f3c0c7295a
+  - enabled: 1
+    path: Assets/Scenes/MNivel2.unity
+    guid: 3fca6db69e8e00248afe4f5023f618d7
+  - enabled: 1
+    path: Assets/Scenes/MNivel3.unity
+    guid: 5cddc0fdc8bade642bef93fd112fd7e5
+  - enabled: 1
+    path: Assets/Scenes/oficina.unity
+    guid: fa05716360afd07479286fa46559460f
+  m_configObjects: {}
